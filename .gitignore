@@ -41,3 +41,10 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+/*.DotSettings
+/Aav.Validation.sln.GhostDoc.xml
+/*.suo
+/Aav.Validation/obj
+/Aav.Validation.Tests/obj
+/Aav.Validation/bin
+/Aav.Validation.Tests/bin
