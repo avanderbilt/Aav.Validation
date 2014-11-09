@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aav.Validation", "Aav.Validation\Aav.Validation.csproj", "{4692F791-3432-4522-BA1A-98CAE4380EBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aav.Validation.Tests", "Aav.Validation.Tests\Aav.Validation.Tests.csproj", "{3C04D286-F8E0-4303-93CF-D2B8490E11DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4692F791-3432-4522-BA1A-98CAE4380EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4692F791-3432-4522-BA1A-98CAE4380EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4692F791-3432-4522-BA1A-98CAE4380EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4692F791-3432-4522-BA1A-98CAE4380EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C04D286-F8E0-4303-93CF-D2B8490E11DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C04D286-F8E0-4303-93CF-D2B8490E11DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C04D286-F8E0-4303-93CF-D2B8490E11DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C04D286-F8E0-4303-93CF-D2B8490E11DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
